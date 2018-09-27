@@ -1,1 +1,1 @@
-include ':app','sdk-release'
+include ':app', ':aartestlibrary'

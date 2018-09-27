@@ -1,4 +1,4 @@
-package in.aar.testaarapp;
+package in.aar.aarlibapp;
 
 import org.junit.Test;
 
